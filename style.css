@@ -1,5 +1,5 @@
 .header{
-    background-color: rgb(220, 1, 1);
+    background-color: rgb(255, 163, 43);
     height: 150px;
     display: flex; 
     align-items: center;
@@ -10,5 +10,13 @@
     font-size: 24px;
     font-family: sans-serif;
     color: aqua;
-    bolder
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.505);
 }
+.propaganda
+{
+    height: 500px;
+    background-color: dimgrey;
+    background: url(van.webp);
+    background-repeat: cover;
+    background-repeat: no-repeat;}
